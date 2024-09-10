@@ -1,0 +1,95 @@
+# 編譯的 class 檔案
+*.class
+
+# Log 檔案
+*.log
+
+# BlueJ 檔案
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# IDEA project files
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# VS Code project files
+.vscode/
+
+# Mac 系統自動生成的檔案
+.DS_Store
+
+# Windows 系統自動生成的檔案
+Thumbs.db
+ehthumbs.db
+
+# 檔案生成目錄
+bin/
+build/
+
+# Maven 檔案
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Gradle 檔案
+.gradle/
+build/
+
+# gradle 產出的 log 檔案
+gradle-app.setting
+
+# Gradle 包裝器目錄
+!gradle/wrapper/gradle-wrapper.jar
+
+# Java 特定工作區文件
+*.class
+*.jar
+*.war
+*.ear
+
+# NetBeans 專案檔案
+nbproject/private/
+build/
+nbbuild/
+dist/
+nblibraries.properties
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# STS (Spring Tool Suite)
+.apt_generated/
+.classpath
+.factorypath
+.project
+.settings/
+.springBeans
+
+# Code coverage directories
+coverage/
+
+# Classpath file
+.classpath
+
+# JBoss Tools
+.settings/
